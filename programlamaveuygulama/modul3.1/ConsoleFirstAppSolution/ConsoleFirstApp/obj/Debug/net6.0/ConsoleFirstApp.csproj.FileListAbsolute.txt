@@ -1,0 +1,15 @@
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\bin\Debug\net6.0\ConsoleFirstApp.exe
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\bin\Debug\net6.0\ConsoleFirstApp.deps.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\bin\Debug\net6.0\ConsoleFirstApp.runtimeconfig.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\bin\Debug\net6.0\ConsoleFirstApp.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\bin\Debug\net6.0\ConsoleFirstApp.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.csproj.AssemblyReference.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.AssemblyInfoInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.AssemblyInfo.cs
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.csproj.CoreCompileInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\refint\ConsoleFirstApp.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ConsoleFirstApp.genruntimeconfig.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\ConsoleFirstAppSolution\ConsoleFirstApp\obj\Debug\net6.0\ref\ConsoleFirstApp.dll

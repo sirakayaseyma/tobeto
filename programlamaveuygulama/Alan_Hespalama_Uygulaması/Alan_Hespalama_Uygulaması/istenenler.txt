@@ -1,0 +1,12 @@
+﻿Amaç : Uygulamannın bir menü ile kullanıcından bir şekil seçmesi ve şeklin alan hesabı için gereken parametrelerinin
+alınarak şekil alanlarının hesaplanmasını sağlayan bir uygulamanın geliştirilmesi.
+
+Not: Kullanıcı çıkış seçeneğini seçmedikçe program sonlanmalı ve her her işlem sonrası menüye dönerek bir şekil için
+alan hesaplama başlatabilmeli.
+
+Menü:
+1 )Kare alan: a*a
+2) Dikdortgen alan: a*b
+3) Üçgen alan :  a*h / 2
+4) Yamuk alan:  ((a+b) / 2 ) * h)
+0 ) Çıkış 

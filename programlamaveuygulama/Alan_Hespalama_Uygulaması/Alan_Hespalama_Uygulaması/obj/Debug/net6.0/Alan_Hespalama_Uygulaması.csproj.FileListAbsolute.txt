@@ -1,0 +1,15 @@
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\bin\Debug\net6.0\Alan_Hespalama_Uygulaması.exe
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\bin\Debug\net6.0\Alan_Hespalama_Uygulaması.deps.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\bin\Debug\net6.0\Alan_Hespalama_Uygulaması.runtimeconfig.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\bin\Debug\net6.0\Alan_Hespalama_Uygulaması.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\bin\Debug\net6.0\Alan_Hespalama_Uygulaması.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.csproj.AssemblyReference.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.AssemblyInfoInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.AssemblyInfo.cs
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.csproj.CoreCompileInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\refint\Alan_Hespalama_Uygulaması.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\Alan_Hespalama_Uygulaması.genruntimeconfig.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\Alan_Hespalama_Uygulaması\Alan_Hespalama_Uygulaması\obj\Debug\net6.0\ref\Alan_Hespalama_Uygulaması.dll

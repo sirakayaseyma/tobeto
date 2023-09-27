@@ -1,0 +1,15 @@
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\bin\Debug\net6.0\DegiskenKavrami.exe
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\bin\Debug\net6.0\DegiskenKavrami.deps.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\bin\Debug\net6.0\DegiskenKavrami.runtimeconfig.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\bin\Debug\net6.0\DegiskenKavrami.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\bin\Debug\net6.0\DegiskenKavrami.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.csproj.AssemblyReference.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.AssemblyInfoInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.AssemblyInfo.cs
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.csproj.CoreCompileInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\refint\DegiskenKavrami.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\DegiskenKavrami.genruntimeconfig.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\DegiskenKavrami\DegiskenKavrami\obj\Debug\net6.0\ref\DegiskenKavrami.dll

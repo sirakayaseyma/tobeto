@@ -1,0 +1,15 @@
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\bin\Debug\net6.0\csharpkonular.exe
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\bin\Debug\net6.0\csharpkonular.deps.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\bin\Debug\net6.0\csharpkonular.runtimeconfig.json
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\bin\Debug\net6.0\csharpkonular.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\bin\Debug\net6.0\csharpkonular.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.csproj.AssemblyReference.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.AssemblyInfoInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.AssemblyInfo.cs
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.csproj.CoreCompileInputs.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\refint\csharpkonular.dll
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.pdb
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\csharpkonular.genruntimeconfig.cache
+C:\Users\symag\OneDrive\Masaüstü\tobeto\csharpkonular\csharpkonular\obj\Debug\net6.0\ref\csharpkonular.dll
