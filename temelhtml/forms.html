@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+
+</head>
+<body>
+    <h1>Forms - Formlar</h1>
+    <hr>
+
+    <form  action="/submitform.php" method="post">
+        <label>Adınız:</label><br><br>
+        <input name="firstname" type="text"/><br><br>
+       
+        <label>Soyadınız:</label><br><br>
+        <input  name="lastname"/><br><br>
+        
+        <label>Doğum Tarihiniz:</label><br><br>
+        <input name="birthdate" type="date"/><br><br>
+
+        <label>Tarih 2:</label><br><br>
+        <input name="date2" type="datetime-local"/><br><br>
+
+        <label>Tarih 3:</label><br><br>
+        <input name="date3" type="datetime"/><br><br>
+
+        <label>Tarih 4:</label><br><br>
+        <input name="date4"type="week"/><br><br>
+
+        <label>Tarih 5:</label><br><br>
+        <input name="date5" type="month"/><br><br>
+
+        <label>Tarih 6:</label><br><br>
+        <input name="date6" type="time"/><br><br>
+
+        <label>Şifreniz:</label><br><br>
+        <input name="password" type="password"/><br><br>
+
+        <label>Favori Renginiz:</label><br><br>
+        <input name="color" type="color"/><br><br>
+
+        <label>Yaşınız:</label><br><br>
+        <input name="age" type="number"/><br><br>
+
+        <input name="checkbox" type="checkbox"/>
+        <label>Öğrenci Misiniz</label><br><br>
+
+        <label>Takımınız:</label><br>
+        <input name="spor" type="radio" value="bjk"/>BJK <br>
+        <input name="spor"type="radio" value="fb"/>FB  <br>
+        <input name="spor"type="radio " value="gs" />GS <br>
+        <input name="spor" type="radio" value="ts"/>TS <br><br>
+
+        <label>En Sevdiğiniz Renk</label><br>
+        <select>
+            <option value="-1">Seçiniz</option>
+            <optgroup label="Mavi Renkler">
+                <option value="blue">Mavi</option>
+                <option value="lightblue">Turkuaz</option>
+            </optgroup>
+            
+            <optgroup label="diğerrenkler">
+                <option value="red">Kırmızı</option>
+                <option value="sarı">Sarı</option>
+                <option value="yeşil">Yeşil</option>
+            </optgroup>
+           
+
+        </select><br><br>
+        <hr>
+        <label>Hakkınızda</label><br>
+
+        <textarea cols="30" rows="5">
+
+        </textarea>
+
+        <input name="myhidden" type="hidden" value="123"/>
+
+        <label>Cv Dosyanız</label>
+        <input name="cv" type="file"/> <br><br>
+
+        <label>Değer Aralığı</label><br>
+        <input name="myrange" type="range" min="10" max="100"/>
+
+        <br>
+        <br>
+        <br>
+        <input type="button" value="Gönder"> 
+        <input type="submit" value="Gönder Submit">
+        <input type="reset" value="Reset"> 
+        
+        
+
+    </form>
+    
+</body>
+</html>
